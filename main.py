@@ -18,7 +18,6 @@ if git:
         f.write("""/a
 /test
 """)
-
 # === Virtuelle Umgebung ===
 subprocess.run(["python", "-m", "venv", ".env"])
 
