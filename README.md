@@ -2,7 +2,7 @@
 
 This script automatically creates a new Python project structure, sets up a virtual environment, and optionally installs libraries. It can also initialize a Git repository if desired.
 
-## 🧩 Features
+## Features
 
 - Creates a new project directory  
 - Generates a `main.py` file  
@@ -12,12 +12,12 @@ This script automatically creates a new Python project structure, sets up a virt
 - Upgrades `pip`  
 - Installs specified Python libraries  
 
-## ⚙️ Requirements
+## Requirements
 
 - **Python 3.x** installed  
 - **Git** (optional, if you want to use Git)
 
-## 🚀 Usage
+## Usage
 
 1. ### Run the script:
  ```bash
@@ -45,7 +45,7 @@ Wich librarys do you want to install?:
 
 - Make the first Git commit (if enabled)
 
-## 📁 Example Project Structure
+## Example Project Structure
 
 ```bash
 my_project/
@@ -55,7 +55,7 @@ my_project/
 └── main.py
 ```
 
-## 🧠 Notes
+## Notes
 
 - Git initialization is enabled by default when you just press Enter.
 
