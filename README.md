@@ -21,7 +21,7 @@ This script automatically creates a new Python project structure, sets up a virt
 
 1. ### Run the script:
  ```bash
-   python create_project.py
+   python main.py
 
 ```
 2. ### Follow the prompts:
